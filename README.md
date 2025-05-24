@@ -54,6 +54,13 @@
 
 *圖註：此處展示了最終選用的做多模型認為最重要的特徵。*
 
+### Telegram Bot in Action / Telegram Bot 實際執行結果
+*(展示Telegram Bot接收指令並回覆訊號評估的截圖)*
+
+![Telegram Bot Test](images/tgbot_test.png)
+
+*圖註：此截圖展示了 Telegram Bot 接收 `/getsignal` 指令後，成功獲取數據、進行分析並回覆最新的 QQQ 做多訊號評估的實際情況。*
+
 ## Main Backtest Results / 主要回測成果 
 **(做多策略: 調優模型v3 @ 閾值0.58, N=1.5, RRR=1.3)**
 * **回測期間 (Test Period)：** 2022-04-04 到 2025-04-21 (約3年)
