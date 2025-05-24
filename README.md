@@ -73,7 +73,7 @@
 1.  **Environment / 環境要求：** Python 3.11+ (建議與 `requirements.txt` 中的版本一致)。
 2.  **Clone Repository / 複製檔案：**
     ```bash
-    git clone [https://github.com/YuTsyh/QQQ-AI-Trading-Signal-Bot](https://github.com/YuTsyh/QQQ-AI-Trading-Signal-Bot) 
+    git clone https://github.com/YuTsyh/QQQ-AI-Trading-Signal-Bot
     cd QQQ-AI-Trading-Signal-Bot
     ```
 3.  **Create and Activate Virtual Environment (Recommended) / 建立並啟用虛擬環境 (推薦)：**
