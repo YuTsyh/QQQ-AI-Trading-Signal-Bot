@@ -16,7 +16,7 @@
 * 實現Telegram Bot互動式查詢。
 
 ## Methodology & Workflow / 方法論與工作流程
-1.  **Data Acquisition / 數據獲取：** 使用 `yfinance` 函式庫下載QQQ、^VIX、DX-Y.NYB (或UUP作為替代) 的每日歷史數據 (2010年至今)。
+1.  **Data Acquisition / 數據獲取：** 使用 `yfinance` 函式庫下載QQQ、VIX、DXY的每日歷史數據 (2010年至今)。
 2.  **Feature Engineering / 特徵工程：** 計算了包括移動平均線、RSI、MACD、布林通道、ATR、短期報酬率、VIX/DXY滯後值以及基於SMA200的`market_regime`等28個特徵。
 3.  **Target Variable Definition / 目標變數定義：**
     * 做多 (`y_long_outcome`)：基於 `N=1.5` (ATR乘數) 設定止損，`target_rrr_long=1.3` 設定止盈。若先觸及止盈則標記為1（盈利），先觸及止損則標記為0（虧損）。此設定旨在獲取更高的單筆盈利潛力。
