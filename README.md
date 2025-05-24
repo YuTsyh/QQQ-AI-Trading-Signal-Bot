@@ -35,7 +35,9 @@
 
 ### Confusion Matrix
 *(做多模型的混淆矩陣圖)*
+
 ![Confusion Matrix](images/long_model_v3_confusion_matrix.png)
+
 *圖註：此處顯示了最終選用的做多模型（模型v3，閾值0.58）在測試集上的混淆矩陣，展示了其對盈利（Win）和虧損（Loss）的預測分類情況。*
 
 ### Equity Curve Comparison
