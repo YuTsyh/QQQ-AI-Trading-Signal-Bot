@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.env
+.venv/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.ipynb_checkpoints
+
+# PyInstaller files
+build/
+dist/
+*.spec
+
+# Secrets / Config files
+config.py 
+*.log
+
+# Large data files or model binaries (if choosing not to upload)
+# *.csv
+# *.joblib 
+
+# OS specific
+.DS_Store
+Thumbs.db
