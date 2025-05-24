@@ -1,6 +1,6 @@
 # QQQ AI Trading Signal Bot (Small-Scale Test Project) feat. Gemini
 
-本專案為「優式AI量化新星計畫」而開發，旨在探索、建立並評估一個基於AI模型的QQQ指數ETF做多交易策略。專案實現了從數據獲取、特徵工程、模型訓練、訊號產生到Telegram Bot互動查詢的完整流程。
+本專案旨在探索、建立並評估一個基於AI模型的QQQ指數ETF做多交易策略。
 
 ## Project Aim / 專案目標
 * 運用機器學習方法（LightGBM）預測QQQ的做多交易機會。
