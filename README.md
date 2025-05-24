@@ -98,8 +98,7 @@
     * **重要：`config.py` 已被添加到 `.gitignore` 中，請勿將包含真實Token的 `config.py` 上傳到公開的GitHub倉庫！**
 
 6.  **Model File / 模型檔案：**
-    * 本倉庫已包含預訓練的模型檔案 `tuned_lgbm_long_model_v3.joblib`，它是用與 `requirements.txt`兼容的環境訓練和保存的。
-    * 你也可以運行 `Your_Notebook_Name.ipynb` (請替換為你的Notebook檔名) 中的相關部分來重新訓練和生成此模型。
+    * 本檔案已包含預訓練的模型檔案 `tuned_lgbm_long_model_v3.joblib`，它是用與 `requirements.txt`兼容的環境訓練和保存的。
 
 ## Usage / 使用說明
 1.  **Start Telegram Bot (Interactive Mode) / 啟動 Telegram Bot (互動模式)：**
