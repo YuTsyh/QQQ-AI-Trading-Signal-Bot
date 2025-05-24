@@ -42,12 +42,16 @@
 
 ### Equity Curve Comparison
 *(策略權益曲線 vs QQQ買入並持有)*
+
 ![Equity Curve](images/long_strategy_v3_equity_curve.png) 
+
 *圖註：此處顯示了做多策略（模型v3，閾值0.58，RRR=1.3）在測試期間與QQQ買入並持有策略的權益曲線對比。*
 
 ### Feature Importance
 *(做多模型的特徵重要性圖)*
+
 ![Feature Importance](images/long_model_v3_feature_importance.png)
+
 *圖註：此處展示了最終選用的做多模型認為最重要的特徵。*
 
 ## Main Backtest Results / 主要回測成果 
