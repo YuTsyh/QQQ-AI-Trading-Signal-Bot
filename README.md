@@ -77,7 +77,7 @@
 * **QQQ同期年化夏普比率 (QQQ Sharpe Ratio, est.)：** 0.37
 
 ## Setup and Installation / 安裝與設定
-1.  **Environment / 環境要求：** Python 3.11+ (建議與 `requirements.txt` 中的版本一致)。
+1.  **Environment / 環境要求：** Python 3.11+ (建議與 `requirements.txt` 中的版本一致)
 2.  **Clone Repository / 複製檔案：**
     ```bash
     git clone https://github.com/YuTsyh/QQQ-AI-Trading-Signal-Bot
