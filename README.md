@@ -1,4 +1,4 @@
-# QQQ AI Trading Signal Bot (Small-Scale Test Project) feat. Gemini
+# QQQ AI Trading Signal Bot (Test Project)
 
 本專案旨在探索、建立並評估一個基於AI模型的QQQ指數ETF做多交易策略。
 
